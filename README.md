@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Helvijs-t2t
+- 👋 Hi, I’m @Helvijs
 - 👀 I’m interested in software development, servers, robotics and Networking.
 - 🌱 I’m currently working on Python, Java, Arduino, Linux Systems, Virtual Machines, Windows Servers related projects.
 - 🔭 I'm also interested in Cosmos, space explorations, rockets and video games, Artificial inteligence!
