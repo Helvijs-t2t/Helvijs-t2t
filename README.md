@@ -2,8 +2,11 @@
 
 
 👋 Hi, I’m @Helvijs
+
 👀 I’m interested in software development, servers, robotics and Networking.
+
 🌱 I’m currently working with Linux Systems, Virtual Machines, Windows Servers, AWS, Azure and Siemens MindSphere.
+
 🔭 I'm also interested in space explorations and Artificial inteligence, Augmented Reality and Machine Learning!
 
 
