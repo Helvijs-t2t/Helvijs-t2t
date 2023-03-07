@@ -21,10 +21,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helvijsolenins/)](https://www.linkedin.com/in/helvijsolenins/)
 
 
-[![Code](https://img.shields.io/badge/Code-Learning-green?style=for-the-badge&logo=data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=)](https://example.com)
-[![Code](https://img.shields.io/badge/Code-Learning-green?style=for-the-badge&logo=data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=)](https://example.com)
-
-
 <!---
 Helvijs-t2t/Helvijs-t2t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
